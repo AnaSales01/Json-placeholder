@@ -4,16 +4,16 @@
     "nome": "Jane Austen"
   },
   {
-    "id":2;
-    "nome":"L.J Smith"
+    "id":2,
+    "nome": "L.J Smith"
   },
   {
     "id":3,
-    "nome":"Julia Quinn"
+    "nome": "Julia Quinn"
   },
   {
     "id":4,
-    "nome":"Lisa Kleypas"
+    "nome": "Lisa Kleypas"
   }
  ]
 }
